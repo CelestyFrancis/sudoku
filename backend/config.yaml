@@ -1,0 +1,12 @@
+database:
+  host: ""
+  dbname: ""
+  port:
+  user: ""
+  password: ""
+
+server:
+  port: ""
+
+login:
+  token: ""
